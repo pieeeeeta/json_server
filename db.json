@@ -1,15 +1,24 @@
 {
-  "posts": [
+  "users": [
     {
       "id": 1,
-      "title": "hello"
+      "name": "Takuho Tada",
+      "username": "pieeeeeta",
+      "email": "takuho@example.com"
     },
     {
       "id": 2,
-      "title": "world"
+      "name": "Ai Tada",
+      "username": "aisan",
+      "email": "ai@example.com"
+    },
+    {
+      "id": 3,
+      "name": "Leanne Graham",
+      "username": "Bret",
+      "email": "kurowan@example.com"
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }
+
+

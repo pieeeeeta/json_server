@@ -1,20 +1,15 @@
-[
+{
+  "posts": [
     {
       "id": 1,
-      "name": "Takuho Tada",
-      "username": "pieeeeeta",
-      "email": "takuho@example.com"
+      "title": "hello"
     },
     {
       "id": 2,
-      "name": "Ai Tada",
-      "username": "aisan",
-      "email": "ai@example.com"
-    },
-    {
-      "id": 3,
-      "name": "Kurowan Tada",
-      "username": "kurowan",
-      "email": "kurowan@example.com"
+      "title": "world"
     }
-  ]
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
